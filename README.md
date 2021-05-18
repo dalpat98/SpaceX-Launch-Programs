@@ -18,6 +18,14 @@ To run this project locally, run the following command  `yarn start` or `npm sta
 
 SpaceX Launch Programs App is deployed on **Heroku** [SpaceX-Launch-Programs](https://spacex-launch-programs-reactjs.herokuapp.com/)
 
+Features
+------------------------------
+* User can see list of card of `spacex launch`.
+* User can filter launches by selecting custom filters `Launch Year`, `Successful Launch`, `Successful Landing`.
+* Fully responsive for `Mobile View`, `Tablet View:`, `Desktop View`
+* Updating view without refreshing browser.
+* Chaning url with refreshing browser
+
 ## Some Screen Shots :
 
 #### 1. Desktop View :
